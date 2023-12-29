@@ -9,6 +9,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://www.linkedin.com/in/andrey-aslanov/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://t.me/andrew_aslanov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Telegram-logo.png" alt="Telegram" height="40" width="40" /></a>
   <a href="https://www.instagram.com/andrew_aslanov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" /></a>
+  <a href="mailto:an.aslanov@yandex.ru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Mail-logo.png" alt="Email" height="45" width="40" /></a>
 </p>
 
 
