@@ -4,10 +4,14 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AndreyAslanov)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-aslanov/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/andrew_aslanov/)
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/andrew_aslanov)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrey-aslanov/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://t.me/andrew_aslanov" target="blank"><img align="center" src="https://icons8.com/icon/63306/telegram-app" alt="Telegram" height="30" width="40" /></a>
+</a>
+  <a href="https://www.instagram.com/andrew_aslanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
 
 &nbsp;
 
@@ -24,8 +28,6 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I have a degree in International Relations;
 - 📫 How to reach me: an.aslanov@yandex.ru;
 
-**Languages and Tools:** 
-
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
@@ -34,15 +36,26 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="Andrey's github stats" src="https://github-readme-stats.vercel.app/api?username=AndreyAslanov&show_icons=true&hide_border=true" />
   </a>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
-  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <br />
-  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
-  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/>
+  </a>
 
 </p>
