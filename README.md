@@ -19,7 +19,7 @@ You can [watch them here](https://github.com/AndreyAslanov?tab=repositories)💾
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 👨🏽‍💻 I’m currently working in collaboration on [FakeNFT](https://github.com/YanikMax/iOS-FakeNFT-StarterProject-Public);
+- 👨🏽‍💻 Currently working in collaboration on [FakeNFT](https://github.com/YanikMax/iOS-FakeNFT-StarterProject-Public);
 - 🌱 Learning SwiftUI and Combine;
 - 👯 Looking for collaborate on Swift;
 - 💬 Happy to help with anything;
