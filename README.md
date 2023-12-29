@@ -1,7 +1,7 @@
-## Hello, I'm Andrey Aslanov
+## Hi There, I'm Andrey Aslanov
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Nice+to+meet+you!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Nice+to+meet+you!👋;" />
 </h1>
 
 <h3 align="left">A passionate IOS developer from Baku 🚀</h3>
@@ -20,11 +20,10 @@ You can [watch them here](https://github.com/AndreyAslanov?tab=repositories)💾
 
 
 - 👨🏽‍💻 I’m currently working in collaboration on [FakeNFT](https://github.com/YanikMax/iOS-FakeNFT-StarterProject-Public);
-- 🌱 learning SwiftUI and Combine;
-- 👯 looking for collaborate on Swift;
-- 💬 happy to help with anything;
-- ⚡️ a degree holder in International Relations;
-- 📫 reachable at [an.aslanov@yandex.ru](mailto:an.aslanov@yandex.ru);
+- 🌱 Learning SwiftUI and Combine;
+- 👯 Looking for collaborate on Swift;
+- 💬 Happy to help with anything;
+- ⚡️ Fun-Fact: I have a degree in International Relations;
 
 <!-- Your github readme stats -->
 <p>
