@@ -18,10 +18,10 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working in collaboration on [FakeNFT](https://github.com/YanikMax/iOS-FakeNFT-StarterProject-Public);
-- 🌱 I’m currently learning SwiftUI and Combine; 
-- 👯 I’m looking to collaborate on Swift;
+- 🌱 Currently learning SwiftUI and Combine; 
+- 👯 I’m looking for collaborate on Swift;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in international relations;
+- ⚡️ Fun-Fact: I have a degree in International Relations;
 - 📫 How to reach me: an.aslanov@yandex.ru;
 
 **Languages and Tools:** 
