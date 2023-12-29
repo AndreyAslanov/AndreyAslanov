@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**I am an IOS Developer. I am currently studying courses on developing applications on the iOS platform, but I have already managed to work on interesting projects👻**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -37,11 +37,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
+  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
+  <code style="margin-bottom: -5px;"><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+
 </p>
