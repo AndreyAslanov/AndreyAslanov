@@ -1,7 +1,9 @@
 ## Hi There, I'm Andrey Aslanov
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Nice+to+meet+you!👋;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!👋&left=true&size=30">
+  </a>
 </h1>
 
 <h3 align="left">A passionate IOS developer from Baku 🚀</h3>
