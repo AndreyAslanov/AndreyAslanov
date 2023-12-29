@@ -1,4 +1,4 @@
-## Hi, I'm Andrey Aslanov, an IOS-Developer 🚀 from Baku.
+## Hi, I'm Andrey Aslanov, an IOS-Developer 🚀 from Baku!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -6,17 +6,20 @@ You can use the website to generate badges: https://shields.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/andrey-aslanov/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://t.me/andrew_aslanov" target="blank"><img align="center" src="https://icons8.com/icon/63306/telegram-app" alt="Telegram" height="30" width="40" /></a>
-</a>
-  <a href="https://www.instagram.com/andrew_aslanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/andrey-aslanov/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://t.me/andrew_aslanov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Telegram-logo.png" alt="Telegram" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/andrew_aslanov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" /></a>
 </p>
+
 
 
 &nbsp;
 
 <!-- Talking about you -->
 **I am an IOS Developer. I am currently studying courses on developing applications on the iOS platform, but I have already managed to work on interesting projects👻**
+
+
+&nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -36,6 +39,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="Andrey's github stats" src="https://github-readme-stats.vercel.app/api?username=AndreyAslanov&show_icons=true&hide_border=true" />
   </a>
 
+
+&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
