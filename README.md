@@ -4,14 +4,12 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrey-aslanov/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://t.me/andrew_aslanov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Telegram-logo.png" alt="Telegram" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/andrew_aslanov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" /></a>
-  <a href="mailto:an.aslanov@yandex.ru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Mail-logo.png" alt="Email" height="45" width="40" /></a>
-</p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 &nbsp;
@@ -63,5 +61,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/>
   </a>
+
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrey-aslanov/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://t.me/andrew_aslanov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Telegram-logo.png" alt="Telegram" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/andrew_aslanov/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" /></a>
+  <a href="mailto:an.aslanov@yandex.ru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AndreyAslanov/AndreyAslanov/main/Assets/Mail-logo.png" alt="Email" height="45" width="40" /></a>
+</p>
 
 </p>
