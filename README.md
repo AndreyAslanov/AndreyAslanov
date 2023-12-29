@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <!-- Talking about you -->
 **I am currently studying courses on developing applications on the iOS platform, but I have already managed to work on interesting projects👻  
@@ -18,12 +18,13 @@ You can [watch them here](https://github.com/AndreyAslanov?tab=repositories)💾
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+
 - 👨🏽‍💻 I’m currently working in collaboration on [FakeNFT](https://github.com/YanikMax/iOS-FakeNFT-StarterProject-Public);
-- 🌱 Currently learning SwiftUI and Combine; 
-- 👯 I’m looking for collaborate on Swift;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in International Relations;
-- 📫 How to reach me: an.aslanov@yandex.ru;
+- 🌱 learning SwiftUI and Combine;
+- 👯 looking for collaborate on Swift;
+- 💬 happy to help with anything;
+- ⚡️ a degree holder in International Relations;
+- 📫 reachable at [an.aslanov@yandex.ru](mailto:an.aslanov@yandex.ru);
 
 <!-- Your github readme stats -->
 <p>
@@ -40,7 +41,7 @@ You can [watch them here](https://github.com/AndreyAslanov?tab=repositories)💾
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    <<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
