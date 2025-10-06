@@ -1,9 +1,7 @@
 ## Hi there, I'm Andrey Aslanov 👋  
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!👋;I'm+iOS+Developer🚀;&center=false&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&vCenter=true&lines=Nice+to+meet+you!👋;iOS+Developer🚀;" alt="Typing SVG" />
 </h1>
 
 <h3 align="left">iOS Developer | Swift • UIKit • SwiftUI • Combine • CoreData • Realm</h3>
@@ -15,16 +13,6 @@
 💡 **About me**  
 I’m an iOS Developer with over **2 years of commercial experience**, focused on creating high-performance mobile applications with strong UI and smooth UX.  
 I’ve built and launched multiple **VPN, browser, and subscription-based apps** — some of them rated **4.6★ with 60+ reviews** on the App Store.  
-
----
-
-### 🧠 Current Focus
-- 💼 Working at **Broad Apps**, developing SwiftUI-based subscription and productivity apps.  
-- ⚙️ Experienced with **UIKit**, **SwiftUI**, **Combine**, **Realm**, **GCD**, **StoreKit**, **AppHud**, **Firebase**, and **REST API**.  
-- 🚀 Interested in architecture, performance optimization, and building clean, maintainable codebases.  
-- 🌍 Open to relocation (Europe • UK • Dubai • USA • China).
-
----
 
 ---
 
@@ -63,11 +51,5 @@ I’ve built and launched multiple **VPN, browser, and subscription-based apps**
 
 ---
 
-<p align="left">
-  <a href="https://github.com/AndreyAslanov">
-    <img width="55%" align="right" alt="Andrey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreyAslanov&show_icons=true&hide_border=true" />
-  </a>
-</p>
-
+⭐ *Thanks for visiting my profile! Feel free to connect or collaborate on iOS projects.*  
 </div>
-
